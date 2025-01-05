@@ -9,10 +9,10 @@ También puedes configurarlo para hacer oneshot del modelo en cualquier lugar, n
 
 Antes de comenzar, asegúrate de tener los siguientes elementos:
 
-- **Python 3**: Necesario para ejecutar el script. Puedes descargarlo desde la [página oficial de Python](https://www.python.org/downloads/).
-
+- **Python 3**: Necesario para ejecutar el script.[página oficial de Python](https://www.python.org/downloads/).
+- **Raycast**: Una herramienta de productividad para MAC.[sitio web](https://www.raycast.com/).
 - **Modelo de Lenguaje (LLM)**:
-  - **Clave API de OpenAI**: Necesaria para acceder a los servicios de OpenAI. Puedes crear una nueva clave [aquí](https://platform.openai.com/account/api-keys).
+- **Clave API de OpenAI**: Llave de acceso para ejecutar el LLM. [API KEY](https://platform.openai.com/account/api-keys).
   
 
 ## Instalación
@@ -20,7 +20,7 @@ Antes de comenzar, asegúrate de tener los siguientes elementos:
 Sigue los pasos a continuación para configurar el entorno y habilitar la ejecución del script:
 
 1. **Instala Raycast**: 
-   - Raycast es una herramienta que te permite ejecutar scripts de manera sencilla. Descarga e instala Raycast desde su [sitio web](https://www.raycast.com/).
+   - Raycast es una herramienta que mejora tu productividad en el Mac. [sitio web](https://www.raycast.com/).
 
 2. **Importa el Script a Raycast**:
    - Descarga el script proporcionado en este repositorio.
@@ -49,4 +49,4 @@ Este script automatiza un proceso que de otro modo requeriría múltiples pasos 
 ## Autor
 
 - **Alejandro Tinto**  
-  Puedes ver más sobre mi en [LinkedIn](https://www.linkedin.com/in/alejandro-tinto/).
+  Puedes ver más sobre mi en [LinkedIn](https://www.linkedin.com/in/alejandro-tinto/). [Youtube](https://www.youtube.com/@alet1nto)
