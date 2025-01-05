@@ -1,17 +1,21 @@
 # Mejorar Texto con OpenAI
 
-Este proyecto está diseñado para facilitar la corrección automática de texto usando un modelo de lenguaje (LLM) en cualquier aplicación que uses. Con este script, no necesitarás copiar y pegar manualmente el texto en ChatGPT, ya que el proceso se realiza automáticamente en segundo plano. Solo necesitas configurar el script en Raycast y podrás disfrutar de correcciones inmediatas en cualquier contexto.
+Este proyecto está diseñado para facilitar la corrección automática de texto usando un modelo de lenguaje (LLM) en cualquier aplicación que uses. 
 
-También puedes configurarlo para hacer oneshot del modelo en cualquier lugar, no solamente corrige texto, le puedes pasar cualquier cosa y te responderá.
+
+Con este script, no necesitarás copiar y pegar manualmente el texto en ChatGPT. Solo necesitas configurar el script en Raycast y podrás disfrutar de correcciones inmediatas usando el atajo del teclado.
+
+También puedes configurarlo para hacer oneshot del modelo en cualquier lugar, no solamente corrige texto, le puedes pasar cualquier instrucción y te responderá.
+
+![Ejemplo Email](Images/Ejemplo_Email.gif)
+
 
 ## Requisitos
 
-
 Antes de comenzar, asegúrate de tener los siguientes elementos:
 
-- **Python 3**: Necesario para ejecutar el script.[página oficial de Python](https://www.python.org/downloads/).
-- **Raycast**: Una herramienta de productividad para MAC.[sitio web](https://www.raycast.com/).
-- **Modelo de Lenguaje (LLM)**:
+- **Python 3**: Necesario para ejecutar el script. [Página oficial de Python](https://www.python.org/downloads/).
+- **Raycast**: Una herramienta de productividad para MAC.[ sitio web](https://www.raycast.com/).
 - **Clave API de OpenAI**: Llave de acceso para ejecutar el LLM. [API KEY](https://platform.openai.com/account/api-keys).
   
 
@@ -40,7 +44,7 @@ Una vez configurado, puedes usar el script en cualquier aplicación que permita 
 
 El modelo que estoy usando es GPT-4 mini, este es el mejor para corregir y hacer textos de manera barata, aunque si fuera solo para corregir textos se podría usar perfectamente Gemini Flash 8B ya que el precio es la mitad de barato.
 
-Igual podrías cambiar el script para usar Claude Haiku o Sonnet 3.5, o cualquier modelo de lenguaje que quisieras. Esto te da mucha flexibilidad para hacer lo que quieras; incluso podrías llamar a la API de asistentes de OPENAI para llamar a tu propio GPT.
+Igual podrías cambiar el script para usar Claude Haiku o Sonnet 3.5, o cualquier modelo de lenguaje que quisieras. Esto te da mucha flexibilidad para hacer lo que quieras; incluso podrías llamar a la API de asistentes de OPENAI para llamar a tu propio GPT con un atajo del teclado.
 
 ## Conclusión
 
@@ -49,4 +53,4 @@ Este script automatiza un proceso que de otro modo requeriría múltiples pasos 
 ## Autor
 
 - **Alejandro Tinto**  
-  Puedes ver más sobre mi en [LinkedIn](https://www.linkedin.com/in/alejandro-tinto/). [Youtube](https://www.youtube.com/@alet1nto)
+  Puedes ver más sobre mi en [LinkedIn](https://www.linkedin.com/in/alejandro-tinto/) [Youtube](https://www.youtube.com/@alet1nto)
