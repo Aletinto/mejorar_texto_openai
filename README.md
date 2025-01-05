@@ -1,4 +1,4 @@
-# Mejorar Texto con OpenAI
+# Mejorar Texto en cualquier applicación con LLM
 
 Este proyecto está diseñado para facilitar la corrección automática de texto usando un modelo de lenguaje (LLM) en cualquier aplicación que uses. 
 
@@ -49,6 +49,10 @@ Igual podrías cambiar el script para usar Claude Haiku o Sonnet 3.5, o cualquie
 ## Conclusión
 
 Este script automatiza un proceso que de otro modo requeriría múltiples pasos manuales, en definitiva, ahorrándote tiempo y esfuerzo. Ahora puedes disfrutar de correcciones ortográficas y gramaticales fluidas y sin complicaciones con solo un atajo de teclado.
+
+Esto es lo que debería de estar pasando con Apple Intelligence con modelos de lenguaje ejecutados en local. Esta implementación también se podría usar con un modelo de lenguaje local como Mistral, cualquier modelo pequeño de Meta como Llama 2, o cualquier modelo de lenguaje de código abierto. La cuestión es que tendríamos que automatizar cargar el modelo o que siempre estuviera cargado en memoria, para que se ejecutara de manera rápida. Aunque es probablemente la opción más barata, requiere de más preparación y configuración. ¡Pero es una opción viable!
+
+Probablemente implementen pronto Apple Intelligence, que hará lo mismo.
 
 ## Autor
 
