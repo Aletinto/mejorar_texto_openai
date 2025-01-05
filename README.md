@@ -6,6 +6,7 @@ También puedes configurarlo para hacer oneshot del modelo en cualquier lugar, n
 
 ## Requisitos
 
+
 Antes de comenzar, asegúrate de tener los siguientes elementos:
 
 - **Python 3**: Necesario para ejecutar el script. Puedes descargarlo desde la [página oficial de Python](https://www.python.org/downloads/).

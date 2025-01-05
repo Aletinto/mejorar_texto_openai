@@ -17,9 +17,10 @@
 import subprocess
 import requests
 import os
+
 import sys
 
-OPENAI_API_KEY = "TU-API-DE-OPENAI"
+OPENAI_API_KEY = "INSERTA-TU-API-DE-OPENAI"
 
 # Usa el modelo que quieras
 MODEL = "gpt-4o-mini"
