@@ -15,6 +15,7 @@ También puedes configurarlo para hacer oneshot del modelo en cualquier lugar, n
 Antes de comenzar, asegúrate de tener los siguientes elementos:
 
 - **Python 3**: Necesario para ejecutar el script. [Página oficial de Python](https://www.python.org/downloads/).
+- Instala requests ´pip install requests´ o ´pip3 install requests´ en la terminal
 - **Raycast**: Una herramienta de productividad para MAC.[ sitio web](https://www.raycast.com/).
 - **Clave API de OpenAI**: Llave de acceso para ejecutar el LLM. [API KEY](https://platform.openai.com/account/api-keys).
   
